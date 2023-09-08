@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioFIAP/.idea/DesafioFIAP.iml" filepath="$PROJECT_DIR$/DesafioFIAP/.idea/DesafioFIAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TechChallengeFIAP/.idea/TechChallengeFIAP.iml" filepath="$PROJECT_DIR$/TechChallengeFIAP/.idea/TechChallengeFIAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/postech-fiap-data-analytics.iml" filepath="$PROJECT_DIR$/.idea/postech-fiap-data-analytics.iml" />
+    </modules>
+  </component>
+</project>
