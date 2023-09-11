@@ -6,5 +6,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DesafioFIAP" />
     <orderEntry type="module" module-name="TechChallengeFIAP" />
+    <orderEntry type="module" module-name="1-analise-exploratoria-de-dados" />
+    <orderEntry type="module" module-name="3-estatistica-e-algelin-em-python" />
+    <orderEntry type="module" module-name="2-visualizacao-de-dados" />
+    <orderEntry type="module" module-name="WineQuality" />
+    <orderEntry type="module" module-name="desafios" />
   </component>
 </module>
