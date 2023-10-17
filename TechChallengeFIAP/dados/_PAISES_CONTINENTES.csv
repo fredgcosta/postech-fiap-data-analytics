@@ -1,0 +1,267 @@
+CO_PAIS;CO_PAIS_ISON3;CO_PAIS_ISOA3;NO_PAIS;NO_PAIS_ING;NO_PAIS_ESP;CO_BLOCO;NO_BLOCO;NO_BLOCO_ING;NO_BLOCO_ESP
+13;4;AFG;Afeganistão;Afghanistan;Afganistan;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+15;248;ALA;Aland, Ilhas;Aland Islands;Alans, Islas;112;Europa;Europe;Europa
+17;8;ALB;Albânia;Albania;Albania;112;Europa;Europe;Europa
+20;724;ESP;Alboran-Perejil, Ilhas;Alboran-Perejil, Islands;Alboran-Perejil, Islas;112;Europa;Europe;Europa
+23;276;DEU;Alemanha;Germany;Alemania;112;Europa;Europe;Europa
+25;278;DEU;Alemanha Oriental;East Germany;Alemania del Este;112;Europa;Europe;Europa
+31;854;BFA;Burkina Faso;Burkina Faso;Burkina Faso;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+37;20;AND;Andorra;Andorra;Andorra;112;Europa;Europe;Europa
+40;24;AGO;Angola;Angola;Angola;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+41;660;AIA;Anguilla;Anguilla;Anguilla;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+43;28;ATG;Antígua e Barbuda;Antigua and Barbuda;Antigua y Barbuda;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+47;530;ANT;Antilhas Holandesas;Netherlands Antilles;Antillas Holandesas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+53;682;SAU;Arábia Saudita;Saudi Arabia;Arabia Saudita;41;Oriente Médio;Middle East;Oriente Medio
+59;12;DZA;Argélia;Algeria;Argelia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+63;32;ARG;Argentina;Argentina;Argentina;48;América do Sul;South America;América del Sur
+64;51;ARM;Armênia;Armenia;Armenia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+65;533;ABW;Aruba;Aruba;Aruba;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+69;36;AUS;Austrália;Australia;Australia;61;Oceania;Oceania;Oceania
+72;40;AUT;Áustria;Austria;Austria;112;Europa;Europe;Europa
+73;31;AZE;Azerbaijão;Azerbaijan;Acerbaiyan;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+77;44;BHS;Bahamas;Bahamas;Bahamas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+80;48;BHR;Barein;Bahrein;Bahrein;41;Oriente Médio;Middle East;Oriente Medio
+81;50;BGD;Bangladesh;Bangladesh;Bangladesh;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+83;52;BRB;Barbados;Barbados;Barbados;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+85;112;BLR;Belarus;Belarus;Belarús;112;Europa;Europe;Europa
+87;56;BEL;Bélgica;Belgium;Bélgica;112;Europa;Europe;Europa
+88;84;BLZ;Belize;Belize;Belice;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+90;60;BMU;Bermudas;Bermuda;Bermuda;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+93;104;MMR;Mianmar;Myanmar;Myanmar;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+97;68;BOL;Bolívia;Bolivia;Bolivia;48;América do Sul;South America;América del Sur
+98;70;BIH;Bósnia-Herzegovina;Bosnia and Herzegovina;Bosnia y Herzegovina;112;Europa;Europe;Europa
+99;535;BES;Bonaire, Saint Eustatius e Saba;Bonaire, Saint Eustatius and Saba;Bonaire, Saint Eustatius y Saba;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+100;898;BRA;Internação na Zona Franca de Manaus;Internment in the Manaus Free Trade Zone;Internamiento de la Zona Franca de Manaus;48;América do Sul;South America;América del Sur
+101;72;BWA;Botsuana;Botswana;Botswana;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+108;96;BRN;Brunei;Brunei;Brunei;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+111;100;BGR;Bulgária;Bulgaria;Bulgaria;112;Europa;Europe;Europa
+115;108;BDI;Burundi;Burundi;Burundi;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+119;64;BTN;Butão;Bhutan;Bhután;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+127;132;CPV;Cabo Verde;Cape Verde;Cabo Verde;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+137;136;CYM;Cayman, Ilhas;Cayman Islands;Caimán, Islas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+141;116;KHM;Camboja;Cambodia;Camboya;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+145;120;CMR;Camarões;Cameroon;Camerún;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+149;124;CAN;Canadá;Canada;Canadá;107;América do Norte;North America;América del norte
+150;831;GGY;Canal, Ilhas do (Guernsey);Guernsey;Guernsey;112;Europa;Europe;Europa
+151;724;ESP;Canárias, Ilhas;Canary, Islands;Canarias, Islas;112;Europa;Europe;Europa
+152;826;GBR;Canal, Ilhas do (Jersey);Jersey;Jersey;112;Europa;Europe;Europa
+153;398;KAZ;Cazaquistão;Kazakhstan;Kazakhstán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+154;634;QAT;Catar;Qatar;Qatar;41;Oriente Médio;Middle East;Oriente Medio
+158;152;CHL;Chile;Chile;Chile;48;América do Sul;South America;América del Sur
+160;156;CHN;China;China;China;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+161;158;TWN;Taiwan (Formosa);Taiwan;Taiwán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+163;196;CYP;Chipre;Cyprus;Chipre;112;Europa;Europe;Europa
+165;166;CCK;Cocos (Keeling), Ilhas;Cocos (Keeling) Islands;Cocos (Keeling), Islas;61;Oceania;Oceania;Oceania
+169;170;COL;Colômbia;Colombia;Colombia;48;América do Sul;South America;América del Sur
+173;174;COM;Comores;Comoros;Comoras;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+177;178;COG;Congo;Congo;Congo;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+183;184;COK;Cook, Ilhas;Cook Islands;Cook, Islas;61;Oceania;Oceania;Oceania
+187;408;PRK;Coreia do Norte;North Korea;Corea (Norte);39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+190;410;KOR;Coreia do Sul;South Korea;Corea (Sur);39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+193;384;CIV;Costa do Marfim;Cote D'Ivore;Costa de Marfil;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+195;191;HRV;Croácia;Croatia;Croacia;112;Europa;Europe;Europa
+196;188;CRI;Costa Rica;Costa Rica;Costa Rica;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+198;414;KWT;Coveite (Kuweit);Kuwait;Kuwait;41;Oriente Médio;Middle East;Oriente Medio
+199;192;CUB;Cuba;Cuba;Cuba;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+200;531;CUW;Curaçao;Curaçao;Curazao;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+229;204;BEN;Benin;Benin;Benin;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+232;208;DNK;Dinamarca;Denmark;Dinamarca;112;Europa;Europe;Europa
+235;212;DMA;Dominica;Dominica Island;Dominica;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+237;784;ARE;Dubai;Dubai;Dubai;41;Oriente Médio;Middle East;Oriente Medio
+239;218;ECU;Equador;Ecuador;Ecuador;48;América do Sul;South America;América del Sur
+240;818;EGY;Egito;Egypt;Egipto;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+243;232;ERI;Eritreia;Eritrea;Eritrea;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+244;784;ARE;Emirados Árabes Unidos;United Arab Emirates;Emiratos Árabes Unidos;41;Oriente Médio;Middle East;Oriente Medio
+245;724;ESP;Espanha;Spain;España;112;Europa;Europe;Europa
+246;705;SVN;Eslovênia;Slovenia;Eslovenia;112;Europa;Europe;Europa
+247;703;SVK;Eslováquia;Slovakia;Eslovaquia;112;Europa;Europe;Europa
+249;840;USA;Estados Unidos;United States;Estados Unidos;107;América do Norte;North America;América del norte
+251;233;EST;Estônia;Estonia;Estonia;112;Europa;Europe;Europa
+253;231;ETH;Etiópia;Ethiopia;Etiopía;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+255;238;FLK;Falkland (Malvinas);Falkland Islands (Malvinas);Malvinas (Falkland), Islas;48;América do Sul;South America;América del Sur
+259;234;FRO;Faroe, Ilhas;Faroe Islands;Feroé, Islas;112;Europa;Europe;Europa
+267;608;PHL;Filipinas;Philippines;Filipinas;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+271;246;FIN;Finlândia;Finland;Finlandia;112;Europa;Europe;Europa
+275;250;FRA;França;France;Francia;112;Europa;Europe;Europa
+281;266;GAB;Gabão;Gabon;Gabón;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+285;270;GMB;Gâmbia;Gambia;Gambia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+289;288;GHA;Gana;Ghana;Ghana;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+291;268;GEO;Geórgia;Georgia;Georgia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+293;292;GIB;Gibraltar;Gibraltar;Gibraltar;112;Europa;Europe;Europa
+297;308;GRD;Granada;Grenada;Granada;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+301;300;GRC;Grécia;Greece;Grecia;112;Europa;Europe;Europa
+305;304;GRL;Groenlândia;Greenland;Groenlandia;112;Europa;Europe;Europa
+309;312;GLP;Guadalupe;Guadeloupe;Guadalupe;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+313;316;GUM;Guam;Guam;Guam;61;Oceania;Oceania;Oceania
+317;320;GTM;Guatemala;Guatemala;Guatemala;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+321;898;GGY;Guernsey;Guernsey;Guernsey;112;Europa;Europe;Europa
+325;254;GUF;Guiana Francesa;French Guyana;Guyana Francesa;48;América do Sul;South America;América del Sur
+329;324;GIN;Guiné;Guinea;Guinea;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+331;226;GNQ;Guiné Equatorial;Equatorial Guinea;Guinea Ecuatorial;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+334;624;GNB;Guiné-Bissau;Guinea-Bissau;Guinea-Bissau;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+337;328;GUY;Guiana;Guyana;Guyana;48;América do Sul;South America;América del Sur
+341;332;HTI;Haiti;Haiti;Haiti;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+345;340;HND;Honduras;Honduras;Honduras;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+351;344;HKG;Hong Kong;Hong Kong;Hong Kong;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+355;348;HUN;Hungria;Hungary;Hungría;112;Europa;Europe;Europa
+357;887;YEM;Iêmen;Yemen;Yemen;41;Oriente Médio;Middle East;Oriente Medio
+358;720;YMD;Iêmen Democrático;Democratic Yemen;Yemen Democrático;41;Oriente Médio;Middle East;Oriente Medio
+359;833;IMN;Ilha de Man;Isle of Man;Isla de Man;112;Europa;Europe;Europa
+361;356;IND;Índia;India;India;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+365;360;IDN;Indonésia;Indonesia;Indonesia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+367;826;GBR;Inglaterra;England;Inglaterra;112;Europa;Europe;Europa
+369;368;IRQ;Iraque;Iraq;Irak;41;Oriente Médio;Middle East;Oriente Medio
+372;364;IRN;Irã;Iran;Irán;41;Oriente Médio;Middle East;Oriente Medio
+375;372;IRL;Irlanda;Ireland;Irlanda;112;Europa;Europe;Europa
+379;352;ISL;Islândia;Iceland;Islandia;112;Europa;Europe;Europa
+383;376;ISR;Israel;Israel;Israel;41;Oriente Médio;Middle East;Oriente Medio
+386;380;ITA;Itália;Italy;Italia;112;Europa;Europe;Europa
+388;891;SCG;Iugoslávia;Yugoslavia;Yugoslavia;112;Europa;Europe;Europa
+391;388;JAM;Jamaica;Jamaica;Jamaica;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+393;898;ZZZ;Jersey;Jersey;Jersey;112;Europa;Europe;Europa
+396;840;USA;Johnston, Ilhas;Johnston (Island);Johnston (Isla);61;Oceania;Oceania;Oceania
+399;392;JPN;Japão;Japan;Japón;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+403;400;JOR;Jordânia;Jordan;Jordania;41;Oriente Médio;Middle East;Oriente Medio
+411;296;KIR;Kiribati;Kiribati;Kiribati;61;Oceania;Oceania;Oceania
+420;418;LAO;Laos;Laos;Laos;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+423;458;MYS;Lebuan, Ilhas;Lebuan;Lebuan;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+426;426;LSO;Lesoto;Lesotho;Lesotho;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+427;428;LVA;Letônia;Latvia;Letonia;112;Europa;Europe;Europa
+431;422;LBN;Líbano;Lebanon;Líbano;41;Oriente Médio;Middle East;Oriente Medio
+434;430;LBR;Libéria;Liberia;Liberia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+438;434;LBY;Líbia;Libya;Libia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+440;438;LIE;Liechtenstein;Liechtenstein;Liechtenstein;112;Europa;Europe;Europa
+442;440;LTU;Lituânia;Lithuania;Lituania;112;Europa;Europe;Europa
+445;442;LUX;Luxemburgo;Luxembourg;Luxemburgo;112;Europa;Europe;Europa
+447;446;MAC;Macau;Macao;Macao;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+449;807;MKD;Macedônia;Macedonia;Macedonia;112;Europa;Europe;Europa
+450;450;MDG;Madagascar;Madagascar;Madagascar;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+452;620;PRT;Madeira, Ilha da;Madeira;Madeira;112;Europa;Europe;Europa
+455;458;MYS;Malásia;Malaysia;Malasia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+458;454;MWI;Malavi;Malawi;Malawi;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+461;462;MDV;Maldivas;Maldives;Maldivas;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+464;466;MLI;Mali;Mali;Mali;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+467;470;MLT;Malta;Malta;Malta;112;Europa;Europe;Europa
+472;580;MNP;Marianas do Norte, Ilhas;Northern Marianas;Marianas Septentrionales, Islas;61;Oceania;Oceania;Oceania
+474;504;MAR;Marrocos;Morocco;Marruecos;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+476;584;MHL;Marshall, Ilhas;Marshall Islands;Islas Marshall;61;Oceania;Oceania;Oceania
+477;474;MTQ;Martinica;Martinique;Martinica;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+485;480;MUS;Maurício;Mauritius;Mauricio;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+488;478;MRT;Mauritânia;Mauritania;Mauritania;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+489;898;ZZZ;Mayotte;Mayotte;Mayotte;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+490;581;UMI;Midway, Ilhas;Midway, Islands;Midways, Islas;61;Oceania;Oceania;Oceania
+493;484;MEX;México;Mexico;México;107;América do Norte;North America;América del norte
+494;498;MDA;Moldávia;Moldova;Moldova, República de;112;Europa;Europe;Europa
+495;492;MCO;Mônaco;Monaco;Mónaco;112;Europa;Europe;Europa
+497;496;MNG;Mongólia;Mongolia;Mongolia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+498;499;MNE;Montenegro;Montenegro;Montenegro;112;Europa;Europe;Europa
+499;583;FSM;Micronésia;Micronesia;Micronesia;61;Oceania;Oceania;Oceania
+501;500;MSR;Montserrat;Montserrat;Montserrat;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+505;508;MOZ;Moçambique;Mozambique;Mozambique;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+507;516;NAM;Namíbia;Namibia;Namibia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+508;520;NRU;Nauru;Nauru;Nauru;61;Oceania;Oceania;Oceania
+511;162;CXR;Christmas (Navidad), Ilha;Christmas Island;Navidad (Christmas), Isla;61;Oceania;Oceania;Oceania
+517;524;NPL;Nepal;Nepal;Nepal;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+521;558;NIC;Nicarágua;Nicaragua;Nicaragua;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+525;562;NER;Níger;Niger;Níger;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+528;566;NGA;Nigéria;Nigeria;Nigeria;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+531;570;NIU;Niue;Niue;Niue;61;Oceania;Oceania;Oceania
+535;574;NFK;Norfolk, Ilha;Norfolk Island;Norfolk, Islas;61;Oceania;Oceania;Oceania
+538;578;NOR;Noruega;Norway;Noruega;112;Europa;Europe;Europa
+542;540;NCL;Nova Caledônia;New Caledonia;Nueva Caledonia;61;Oceania;Oceania;Oceania
+545;598;PNG;Papua Nova Guiné;Papua New Guinea;Papua Nueva Guinea;61;Oceania;Oceania;Oceania
+548;554;NZL;Nova Zelândia;New Zealand;Nueva Zelanda;61;Oceania;Oceania;Oceania
+551;548;VUT;Vanuatu;Vanuatu;Vanuatu;61;Oceania;Oceania;Oceania
+556;512;OMN;Omã;Oman;Omán;41;Oriente Médio;Middle East;Oriente Medio
+563;581;UMI;Pacífico, Ilhas do (Administração dos EUA);Pacific, Islands of (U.S. Administration);Pacífico, las Islas (EE.UU administración);61;Oceania;Oceania;Oceania
+566;581;UMI;Pacífico, Ilhas do (EUA);Pacific Islands (USA);Pacífico, Islas del (Estados Unidos);61;Oceania;Oceania;Oceania
+569;581;UMI;Pacífico, Ilhas do (Território Fideicomisso EUA);Pacifics, Islands of (U.S. trust territory);Pacífico, las islas (EE.UU. TERRITORIO EN FIDEICOMISO;61;Oceania;Oceania;Oceania
+573;528;NLD;Países Baixos (Holanda);Netherlands;Países Bajos;112;Europa;Europe;Europa
+575;585;PLW;Palau;Palau;Palau;61;Oceania;Oceania;Oceania
+576;586;PAK;Paquistão;Pakistan;Pakistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+578;275;PSE;Palestina;Palestine;Palestina;41;Oriente Médio;Middle East;Oriente Medio
+580;591;PAN;Panamá;Panama;Panamá;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+583;598;PNG;Papua, Território de;Papua territory;Territorio de Papua;61;Oceania;Oceania;Oceania
+586;600;PRY;Paraguai;Paraguay;Paraguay;48;América do Sul;South America;América del Sur
+589;604;PER;Peru;Peru;Perú;48;América do Sul;South America;América del Sur
+593;612;PCN;Pitcairn;Pitcairn;Pitcairn;61;Oceania;Oceania;Oceania
+599;258;PYF;Polinésia Francesa;French Polynesia;Polinesia Francesa;61;Oceania;Oceania;Oceania
+603;616;POL;Polônia;Poland;Polonia;112;Europa;Europe;Europa
+607;620;PRT;Portugal;Portugal;Portugal;112;Europa;Europe;Europa
+611;630;PRI;Porto Rico;Puerto Rico;Puerto Rico;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+623;404;KEN;Quênia;Kenya;Kenya;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+625;417;KGZ;Quirguistão;Kyrgyzstan;Kirguistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+628;826;GBR;Reino Unido;United Kingdom;Reino Unido;112;Europa;Europe;Europa
+640;140;CAF;República Centro-Africana;Central African Republic;República Centroafricana;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+647;214;DOM;República Dominicana;Dominican Republic;República Dominicana;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+660;638;REU;Reunião;Reunion;Reunión;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+665;716;ZWE;Zimbábue;Zimbabwe;Zimbabwe;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+670;642;ROU;Romênia;Romania;Rumania;112;Europa;Europe;Europa
+675;646;RWA;Ruanda;Rwanda;Ruanda;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+676;643;RUS;Rússia;Russia;Rusia;112;Europa;Europe;Europa
+677;90;SLB;Salomão, Ilhas;Solomon Islands;Salomón, Islas;61;Oceania;Oceania;Oceania
+678;659;KNA;Saint Kitts e Nevis;St. Kitts and Nevis;St. Kitts y Nevis;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+685;732;ESH;Saara Ocidental;Western Sahara;Sahara Occidental;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+687;222;SLV;El Salvador;El Salvador;El Salvador;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+690;882;WSM;Samoa;Samoa;Samoa;61;Oceania;Oceania;Oceania
+691;16;ASM;Samoa Americana;Americana Samoa;Samoa Americana;61;Oceania;Oceania;Oceania
+693;652;BLM;São Bartolomeu;Saint Barthelemy;San Bartolomé;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+695;659;KNA;São Cristóvão e Névis;Saint Christopher and Nevis;Saint Kitts y Nevis;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+697;674;SMR;San Marino;San Marino;San Marino;112;Europa;Europe;Europa
+698;898;ZZZ;São Martinho, Ilha de (parte francesa);São Martinho, Ilha de (parte francesa);São Martinho, Ilha de (parte francesa);105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+699;534;SXM;Sint Maarten;Sint Maarten;Sint Maarten;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+700;666;SPM;São Pedro e Miquelon;Saint Pierre and Miquelon;Saint Pierre y Miquelon;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+705;670;VCT;São Vicente e Granadinas;Saint Vicent and the Granadines;San Vicente y las Granadinas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+710;654;SHN;Santa Helena;Saint Helena;Santa Helena, Ascención y Tristán de Acuña;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+715;662;LCA;Santa Lúcia;Saint Lucia;Santa Lucia;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+720;678;STP;São Tomé e Príncipe;São Tome and Principe;Santo Tomé y Príncipe;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+728;686;SEN;Senegal;Senegal;Senegal;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+731;690;SYC;Seicheles;Seychelles;Seychelles;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+735;694;SLE;Serra Leoa;Sierra Leone;Sierra Leona;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+737;688;SRB;Sérvia;Serbia;Serbia;112;Europa;Europe;Europa
+741;702;SGP;Singapura;Singapore;Singapur;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+744;760;SYR;Síria;Syria;Siria;41;Oriente Médio;Middle East;Oriente Medio
+748;706;SOM;Somália;Somalia;Somalia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+750;144;LKA;Sri Lanka;Sri Lanka;Sri Lanka;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+754;748;SWZ;Suazilândia;Swaziland;Swazilandia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+756;710;ZAF;África do Sul;South Africa;Sudáfrica;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+759;736;SDN;Sudão;Sudan;Sudán;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+760;728;SSD;Sudão do Sul;South Sudan;Sudán del Sur;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+764;752;SWE;Suécia;Sweden;Suecia;112;Europa;Europe;Europa
+767;756;CHE;Suíça;Switzerland;Suiza;112;Europa;Europe;Europa
+770;740;SUR;Suriname;Suriname;Suriname;48;América do Sul;South America;América del Sur
+772;762;TJK;Tadjiquistão;Tajikistan;Tayikistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+776;764;THA;Tailândia;Thailand;Tailandia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+780;834;TZA;Tanzânia;Tanzania;Tanzanía;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+781;898;ATF;Terras Austrais Francesas;French Southern Lands;Tierras Australes Francesas;112;Europa;Europe;Europa
+782;86;IOT;Território Britânico do Oceano Índico;British Indian Ocean Territory;Territorio Británico del Océano Indico;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+783;262;DJI;Djibuti;Djibouti;Djibouti;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+788;148;TCD;Chade;Chad;Chad;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+790;200;CSK;Tchecoslováquia;Czechoslovakia;Checoslovaquia;112;Europa;Europe;Europa
+791;203;CZE;Tcheca, República;Czech Republic;República Checa;112;Europa;Europe;Europa
+795;626;TLS;Timor Leste;East Timor;Timor Leste;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+800;768;TGO;Togo;Togo;Togo;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+805;772;TKL;Toquelau;Tokelau;Tokelau;61;Oceania;Oceania;Oceania
+810;776;TON;Tonga;Tonga;Tonga;61;Oceania;Oceania;Oceania
+815;780;TTO;Trinidad e Tobago;Trinidad and Tobago;Trinidad y Tobago;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+820;788;TUN;Tunísia;Tunisia;Túnez;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+823;796;TCA;Turcas e Caicos, Ilhas;Turks and Caicos, Islands;Turcas y Caicos, Islas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+824;795;TKM;Turcomenistão;Turkmenistan;Turkmenistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+827;792;TUR;Turquia;Turkey;Turquía;112;Europa;Europe;Europa
+828;798;TUV;Tuvalu;Tuvalu;Tuvalu;61;Oceania;Oceania;Oceania
+831;804;UKR;Ucrânia;Ukraine;Ucrania;112;Europa;Europe;Europa
+833;800;UGA;Uganda;Uganda;Uganda;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+840;898;ZZZ;União das Repúblicas Socialistas Soviéticas;Union of Soviet Socialist Republics;Unión de Repúblicas Socialistas Soviéticas;112;Europa;Europe;Europa
+845;858;URY;Uruguai;Uruguay;Uruguay;48;América do Sul;South America;América del Sur
+847;860;UZB;Uzbequistão;Uzbekistan;Uzbekistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+848;336;VAT;Vaticano;Vatican City;Santa Sede (Vaticano);112;Europa;Europe;Europa
+850;862;VEN;Venezuela;Venezuela;Venezuela;48;América do Sul;South America;América del Sur
+858;704;VNM;Vietnã;Vietnam;Viet Nam;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
+863;92;VGB;Virgens, Ilhas (Britânicas);Virgin Islands (UK);Vírgenes Británicas, Islas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+866;850;VIR;Virgens, Ilhas (Americanas);Virgin Islands (USA);Vírgenes de los Estados Unidos, Islas;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
+870;242;FJI;Fiji;Fiji;Fiji;61;Oceania;Oceania;Oceania
+873;840;USA;Wake, Ilha;Wake Island;Isla Wake;61;Oceania;Oceania;Oceania
+875;876;WLF;Wallis e Futuna, Ilhas;Wallis and Futuna;Wallis y Futuna;61;Oceania;Oceania;Oceania
+888;180;COD;Congo, República Democrática;Democratic Republic of the Congo;República Democrática del Congo;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+890;894;ZMB;Zâmbia;Zambia;Zambia;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+895;592;PCZ;Zona do Canal do Panamá;Panama Canal Zone;Zona del Canal de Panamá;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe

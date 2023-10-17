@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-analise-exploratoria-de-dados/.idea/1-analise-exploratoria-de-dados.iml" filepath="$PROJECT_DIR$/1-analise-exploratoria-de-dados/.idea/1-analise-exploratoria-de-dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-visualizacao-de-dados/.idea/2-visualizacao-de-dados.iml" filepath="$PROJECT_DIR$/2-visualizacao-de-dados/.idea/2-visualizacao-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2DTAT_APP/.idea/2DTAT_APP.iml" filepath="$PROJECT_DIR$/2DTAT_APP/.idea/2DTAT_APP.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-estatistica-e-algelin-em-python/.idea/3-estatistica-e-algelin-em-python.iml" filepath="$PROJECT_DIR$/3-estatistica-e-algelin-em-python/.idea/3-estatistica-e-algelin-em-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioFIAP/.idea/DesafioFIAP.iml" filepath="$PROJECT_DIR$/DesafioFIAP/.idea/DesafioFIAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TechChallengeFIAP/.idea/TechChallengeFIAP.iml" filepath="$PROJECT_DIR$/TechChallengeFIAP/.idea/TechChallengeFIAP.iml" />
