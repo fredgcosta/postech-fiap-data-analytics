@@ -33,6 +33,7 @@ CO_PAIS;CO_PAIS_ISON3;CO_PAIS_ISOA3;NO_PAIS;NO_PAIS_ING;NO_PAIS_ESP;CO_BLOCO;NO_
 99;535;BES;Bonaire, Saint Eustatius e Saba;Bonaire, Saint Eustatius and Saba;Bonaire, Saint Eustatius y Saba;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
 100;898;BRA;Internação na Zona Franca de Manaus;Internment in the Manaus Free Trade Zone;Internamiento de la Zona Franca de Manaus;48;América do Sul;South America;América del Sur
 101;72;BWA;Botsuana;Botswana;Botswana;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
+105;76;BRA;Brasil;Brazil;Brasil;48;América do Sul;South America;América del Sur
 108;96;BRN;Brunei;Brunei;Brunei;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
 111;100;BGR;Bulgária;Bulgaria;Bulgaria;112;Europa;Europe;Europa
 115;108;BDI;Burundi;Burundi;Burundi;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
@@ -229,7 +230,7 @@ CO_PAIS;CO_PAIS_ISON3;CO_PAIS_ISOA3;NO_PAIS;NO_PAIS_ING;NO_PAIS_ESP;CO_BLOCO;NO_
 760;728;SSD;Sudão do Sul;South Sudan;Sudán del Sur;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
 764;752;SWE;Suécia;Sweden;Suecia;112;Europa;Europe;Europa
 767;756;CHE;Suíça;Switzerland;Suiza;112;Europa;Europe;Europa
-770;740;SUR;Suriname;Suriname;Suriname;48;América do Sul;South America;América del Sur
+770;740;SUR;Suriname;Suriname;Suriname;105;América Central e Caribe;Central America and Caribbean;América Central y Caribe
 772;762;TJK;Tadjiquistão;Tajikistan;Tayikistán;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
 776;764;THA;Tailândia;Thailand;Tailandia;39;Ásia (Exclusive Oriente Médio);Asia (minus MIDDLE EAST);Asia (menos Oriente Medio)
 780;834;TZA;Tanzânia;Tanzania;Tanzanía;51;África;Africa (minus MIDDLE EAST);África (menos ORIENTE MEDIO)
