@@ -12,5 +12,6 @@
     <orderEntry type="module" module-name="WineQuality" />
     <orderEntry type="module" module-name="desafios" />
     <orderEntry type="module" module-name="2DTAT_APP" />
+    <orderEntry type="module" module-name="backup" />
   </component>
 </module>
